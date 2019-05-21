@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Test</string>
     <string name="bitch">Bitch</string>
+    <string name="new_">New</string>
+    <string name="would_you_rather">Would You Rather?</string>
+    <string name="fmk">FMK</string>
 </resources>
