@@ -1,2 +1,4 @@
 # Test_AndroidStudio
-Test app
+First Android Studio App
+Would you rather 
+  and FMK
